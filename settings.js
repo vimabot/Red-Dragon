@@ -12,7 +12,19 @@ global.APIKeys = {
 }
 
 global.alivemsg = `👋Hello!
-I am online 😜, how can i help you 🤔?` //Costomize Alive Message (type your message in `` )
+I am online 😜, how can i help you 🤔?
+
+First I would like to describe myself 😊...
+
+🤖 I'm an AI chat bot designed to communicate with you and respond to your requests. Feel free to ask me anything and I'll do my best to provide accurate and helpful responses. Let's chat!
+
+━━━━━━━━━━━━━━━━━━━━
+And also🙋‍♂️,
+I have created a WhatsApp group for whatsapp bot! If you can join it😏.
+
+Here's the link to join the group: [https://chat.whatsapp.com/KGJuYVZwKbo7kA9TjCrkZe]
+
+|: ＦＥＥＬ ＴＨＥ ＢＡＳＳ :|` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
